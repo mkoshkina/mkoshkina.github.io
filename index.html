@@ -1,1 +1,67 @@
-Under Development
+<!doctype html>
+<html lang='en'>
+	<head>
+		<meta charset='utf-8'>
+		<title>Maria Koshkina</title>
+		<link href="page.css" rel="stylesheet" type="text/css">
+		<meta name='viewport' content='width=device-width, initial-scale=1'>
+	</head>
+
+	<body>
+		<div class='column1'>
+			<div class='profile-section center'>
+				
+					<image class='profile-img' src='images/photo.jpg'>
+				
+				<div class='name'>
+					Maria Koshkina
+				</div>
+			
+			<div>
+				<p>York University,<br>
+				Toronto, Canada</p>
+			</div>
+			<div>
+			I am interested in Machine Learning and Computer Vision and their application to automatic video understanding.
+			</div>
+			<div class='links'>
+				<div class='link'><a href='mailto:koshkina@yorku.ca'><img class='icon' src='images/email.svg'></a></div> 
+				<div class='link'><a href='http://www.linkedin.com/in/maria-koshkina-msc'><img class='icon' src='images/linkedin.png'></a></div> 
+				<div class='link'><a href='https://github.com/mkoshkina'><img class='icon' src='images/github.png'></a></div>
+			</div>
+			</div>
+			
+		</div>
+		
+		<div class='column2'>
+			<h2> About </h2>
+			<div class='section'>
+			I am a professional software developer with over 15 years of experience. I am currently pursuing a PhD in computer science at Department of <a href='http://eecs.lassonde.yorku.ca/'>Electrical Engineering and and Computer Science, York University</a> under supervision of <a href='https://www.elderlab.yorku.ca/'>Prof James Elder</a>.  My PhD research focuses on video understanding for sports.  I am also currently working as Maching Learning Team Lead at <a href='http://geminare.com'>Geminare Inc</a>. 
+			</div>
+			<h2> News </h2>
+			<div class='section'>
+				<ul>
+					<li>Apr 2021 - Paper M. Koshkina, H. Pidaparthy, J.H. Elder "Contrastive Learning for Sports Video: Unsupervised Player Classification" accepted to CVPR Vision in Sports Workshop.
+					<li>Jan 2021 - Started as Machine Learning Team Lead (part-time) at <a href='http://geminare.com'>Geminare Inc</a>.
+				</ul>
+			</div>
+			<h2> Research Projects </h2>
+			<h3> Player Tracking </h2>
+			<div class='section'>
+			Detecting and tracking players throughout the game is important for game analysis and automatic stats collection. It supports other sports video understanding tasks such as game event detection.  Current state-of-the-art approaches are mostly focused on MOT (Multi-object tracking) of pedestrians and vehicles. Tracking players bring its own challenges: players on the same team have very similar appearance, fast motion and frequent occlusions complicate the task.  In our research, we are building on top of current MOT state-of-the-art methods while addressing sports-specific challenges.
+			</div>
+			
+			<h3> Unsupervised Player Classification </h3>
+			<div class='section'>
+			We address the problem of unsupervised classification of players in a team sport according to their team affiliation, when jersey colours and design are not known a priori. We adopt a contrastive learning approach in which an embedding network learns to maximize the distance between representations of players on different teams relative to players on the same team, in a purely unsupervised fashion, without any labelled data. We evaluate the approach using a new hockey dataset and find that it outperforms prior unsupervised approaches by a substantial margin, particularly for real-time application when only a small number of frames are available for unsupervised learning before team assignments must be made. Remarkably, we show that our contrastive method achieves 94% accuracy after unsupervised training on only a single frame, with accuracy rising to 97% within 500 frames (17 seconds of game time). We further demonstrate how accurate team classification allows accurate team-conditional heat maps of player positioning to be computed.<br>
+			<div>
+				<img class='workflow' src='images/workflow.png'>
+			</div>
+			<p>
+			M. Koshkina, H. Pidaparthy, J.H. Elder "Contrastive Learning for Sports Video: Unsupervised Player Classification" accepted to CVPR Vision in Sports Workshop. Pre-print can be found here.<br>
+			For more info see our <a href='https://mkoshkina.github.io/teamId/'>project page</a> and <a href='https://github.com/mkoshkina/teamId/'>code</a>.
+			</p>
+			</div>
+		</div>
+	</body>
+</html>
