@@ -13,7 +13,7 @@ News
 ======
 * Apr 2024 - Passed qualifying exam
 * Apr 2024 - Paper M. Koshkina, J.H. Elder ["A General Framework for Jersey Number Recognition in Sports Video"](https://arxiv.org/pdf/2405.13896v1) accepted to CVPR Computer Vision in Sports Workshop.
-* Dec 2021 - Completed Applied AI internship at [Vector Institute](https://vectorinstitute.ai/). Presented my work: [MLOps for Healthcare]('https://www.youtube.com/watch?v=HsSU3VzJboc')
+* Dec 2021 - Completed Applied AI internship at [Vector Institute](https://vectorinstitute.ai/). Presented my work: [MLOps for Healthcare](https://www.youtube.com/watch?v=HsSU3VzJboc)
 * Sep 2021 - Joined Vector Institute as an Applied AI Intern.
 * Jun 2021 - "Contrastive Learning for Sports Video: Unsupervised Player Classification" is a runner-up for Sportlogiq Best Paper Award.
 * May 2021 - Presented invited talk "Towards Sports Video Understanding: Player Detection, Classification and Tracking" at Ontario Tech University.
