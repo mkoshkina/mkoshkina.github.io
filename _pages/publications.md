@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## Peer-reviewed
-* M. Koshkina,  J.H. Elder. [A General Framework for Jersey Number Recognition in Sports Video](https://arxiv.org/abs/2405.13896), In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2024 (accepted)
+* M. Koshkina,  J.H. Elder. [A General Framework for Jersey Number Recognition in Sports Video](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/papers/Koshkina_A_General_Framework_for_Jersey_Number_Recognition_in_Sports_Video_CVPRW_2024_paper.pdf), In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2024.
 
 * M. Koshkina, H. Pidaparthy, J.H. Elder. [Contrastive Learning for Sports Video: Unsupervised Player Classification](https://openaccess.thecvf.com/content/CVPR2021W/CVSports/papers/Koshkina_Contrastive_Learning_for_Sports_Video_Unsupervised_Player_Classification_CVPRW_2021_paper.pdf), In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2021, pp. 4528-4536* F. van Breugel and M. Koshkina. [Dead-Path-Elimination in BPEL4WS](https://ieeexplore.ieee.org/document/1508144). In Proceedings of the 5th International Conference on Application of Concurrency to System Design, pages 192-201, St Malo, June 2005. IEEE* M. Koshkina and F. van Breugel. [Modeling and Verifying Web Service Orchestration by means of the Concurrency Workbench.](https://dl.acm.org/doi/10.1145/1022494.1022526), In Proceedings of the Workshop on Testing, Analysis and Verification of Web Services (TAV-WEB), ACM SIGSOFT Software Engineering Notes, 29(5), September 2004.			
 

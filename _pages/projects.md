@@ -14,7 +14,7 @@ Jersey number recognition is a key task in sports video analysis, due in part to
 
 <img class='workflow' src='../images/soccer_pipeline.png'>
 
-Maria Koshkina, James H. Elder <a href='https://arxiv.org/abs/2405.13896'>A General Framework for Jersey Number Recognition in Sports Video</a>(accepted to CVSports Workshop at CVPR 2024).
+Maria Koshkina, James H. Elder <a href='https://openaccess.thecvf.com/content/CVPR2024W/CVsports/papers/Koshkina_A_General_Framework_for_Jersey_Number_Recognition_in_Sports_Video_CVPRW_2024_paper.pdf'>A General Framework for Jersey Number Recognition in Sports Video</a>CVSports Workshop at CVPR 2024.
 			<br>
 			Code is available <a href='https://github.com/mkoshkina/jersey-number-pipeline/'>here</a>.
 
