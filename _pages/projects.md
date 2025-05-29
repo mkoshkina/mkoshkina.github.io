@@ -10,7 +10,7 @@ In team sports analytics long-term player tracking remains a challenging task du
 
 <img class='workflow' src='../images/sports-sushi-overview.png'>
 
-Maria Koshkina, James H. Elder. ["Towards long-term player tracking with graph hierarchies and domain-specific features"](https://openaccess.thecvf.com/content/WACV2025W/CV4WS/html/Koshkina_Towards_long-term_player_tracking_with_graph_hierarchies_and_domain-specific_features_WACVW_2025_paper.html) in WACV 2025 Computer Vision for Winter Sports Workshop. (<a href='https://github.com/mkoshkina/https://github.com/mkoshkina/Sports-SUSHI/'>Project GitHub</a>).
+Maria Koshkina, James H. Elder. ["Towards long-term player tracking with graph hierarchies and domain-specific features"](https://openaccess.thecvf.com/content/WACV2025W/CV4WS/html/Koshkina_Towards_long-term_player_tracking_with_graph_hierarchies_and_domain-specific_features_WACVW_2025_paper.html) in WACV 2025 Computer Vision for Winter Sports Workshop. (<a href='https://github.com/mkoshkina/Sports-SUSHI/'>Project GitHub</a>).
 
 ## Jersey Number Recognition 
 			
