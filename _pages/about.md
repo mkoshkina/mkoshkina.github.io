@@ -11,6 +11,8 @@ I am a PhD candidate at [Department of Electrical Engineering and Computer Scien
 
 News
 ======
+* Jan 2025 - Teaching LE EECS2001: Introduction to the Theory of Computation<
+* Jan 2025 - Our paper ["Towards long-term player tracking with graph hierarchies and domain-specific features"](https://openaccess.thecvf.com/content/WACV2025W/CV4WS/html/Koshkina_Towards_long-term_player_tracking_with_graph_hierarchies_and_domain-specific_features_WACVW_2025_paper.html) accepted to WACV 2025 Computer Vision for Winter Sports Workshop.
 * Apr 2024 - Passed qualifying exam
 * Apr 2024 - Paper M. Koshkina, J.H. Elder ["A General Framework for Jersey Number Recognition in Sports Video"](https://arxiv.org/pdf/2405.13896v1) accepted to CVPR Computer Vision in Sports Workshop.
 * Dec 2021 - Completed Applied AI internship at [Vector Institute](https://vectorinstitute.ai/). Presented my work: [MLOps for Healthcare](https://www.youtube.com/watch?v=HsSU3VzJboc)

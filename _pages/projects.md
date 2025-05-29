@@ -6,7 +6,11 @@ author_profile: true
 ---
 ## Player Tracking
 			
-Detecting and tracking players throughout the game is important for game analysis and automatic stats collection. It supports other sports video understanding tasks such as game event detection.  Current state-of-the-art approaches are focused on MOT (Multi-object tracking) of pedestrians and vehicles. The task of tracking players brings its own challenges: players on the same team have a very similar appearance, fast motion and frequent occlusions complicate the task.  In our research, we are building on top of current MOT state-of-the-art methods while addressing sports-specific challenges.
+In team sports analytics long-term player tracking remains a challenging task due to player appearance similarity occlusion and dynamic motion patterns. Accurately re-identifying players and reconnecting tracklets after extended absences from the field of view or prolonged occlusions is crucial for robust analysis. We introduce SportsSUSHI a hierarchical graph-based approach that leverages domain-specific features including jersey numbers team IDs and field coordinates to enhance tracking accuracy. SportsSUSHI achieves high performance on the SoccerNet dataset and a newly proposed hockey tracking dataset. 
+
+<img class='workflow' src='../images/sports-sushi-overview.png'>
+
+Maria Koshkina, James H. Elder. ["Towards long-term player tracking with graph hierarchies and domain-specific features"](https://openaccess.thecvf.com/content/WACV2025W/CV4WS/html/Koshkina_Towards_long-term_player_tracking_with_graph_hierarchies_and_domain-specific_features_WACVW_2025_paper.html) in WACV 2025 Computer Vision for Winter Sports Workshop. (<a href='https://github.com/mkoshkina/https://github.com/mkoshkina/Sports-SUSHI/'>Project GitHub</a>).
 
 ## Jersey Number Recognition 
 			
@@ -14,9 +18,8 @@ Jersey number recognition is a key task in sports video analysis, due in part to
 
 <img class='workflow' src='../images/soccer_pipeline.png'>
 
-Maria Koshkina, James H. Elder <a href='https://openaccess.thecvf.com/content/CVPR2024W/CVsports/papers/Koshkina_A_General_Framework_for_Jersey_Number_Recognition_in_Sports_Video_CVPRW_2024_paper.pdf'>A General Framework for Jersey Number Recognition in Sports Video</a>CVSports Workshop at CVPR 2024.
-			<br>
-			Code is available <a href='https://github.com/mkoshkina/jersey-number-pipeline/'>here</a>.
+Maria Koshkina, James H. Elder <a href='https://openaccess.thecvf.com/content/CVPR2024W/CVsports/papers/Koshkina_A_General_Framework_for_Jersey_Number_Recognition_in_Sports_Video_CVPRW_2024_paper.pdf'>A General Framework for Jersey Number Recognition in Sports Video</a>, CVSports Workshop, CVPR 2024. 
+Code is available <a href='https://github.com/mkoshkina/jersey-number-pipeline/'>here</a>.
 
 
 ## Unsupervised Player Classification 
