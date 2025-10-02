@@ -7,11 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at [Department of Electrical Engineering and Computer Science](http://eecs.lassonde.yorku.ca/'), York University, working under the supervision of [Dr. James Elder](https://www.elderlab.yorku.ca/). My PhD research focuses on video understanding for sports. I am a professional software developer with over 15 years of experience. I received my MSc and BSc in Computer Science from York University in 2003 and 2001.
+I am a computer vision and machine learning researcher and a professional software developer with over 15 years of experience. I hold a PhD from [Department of Electrical Engineering and Computer Science](http://eecs.lassonde.yorku.ca/'), York University. My research is focused on video understanding for sports. 
 
 News
 ======
-* Jan 2025 - Teaching LE EECS2001: Introduction to the Theory of Computation<
+* Sep 2025 - Successfully defended my PhD Dissertation
+* Jan 2025 - Teaching LE EECS2001: Introduction to the Theory of Computation
 * Jan 2025 - Our paper ["Towards long-term player tracking with graph hierarchies and domain-specific features"](https://openaccess.thecvf.com/content/WACV2025W/CV4WS/html/Koshkina_Towards_long-term_player_tracking_with_graph_hierarchies_and_domain-specific_features_WACVW_2025_paper.html) accepted to WACV 2025 Computer Vision for Winter Sports Workshop.
 * Apr 2024 - Passed qualifying exam
 * Apr 2024 - Paper M. Koshkina, J.H. Elder ["A General Framework for Jersey Number Recognition in Sports Video"](https://arxiv.org/pdf/2405.13896v1) accepted to CVPR Computer Vision in Sports Workshop.
