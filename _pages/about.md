@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer vision and machine learning researcher and a professional software developer with over 15 years of experience. I hold a PhD from [Department of Electrical Engineering and Computer Science](http://eecs.lassonde.yorku.ca/'), York University. My research is focused on video understanding for sports. 
+I am a computer vision and machine learning researcher and a professional software developer with over 15 years of experience. I am currently a postdoctoral fellow at the [Vision and Image Processing Lab](https://vip.uwaterloo.ca/) at [University of Waterloo](https://uwaterloo.ca/). I hold a PhD from [Department of Electrical Engineering and Computer Science](http://eecs.lassonde.yorku.ca/'), York University. My research is focused on video understanding for sports. 
 
 News
 ======
+* Oct 2025 - Joined [Vision and Image Processing Lab](https://vip.uwaterloo.ca/) at [University of Waterloo](https://uwaterloo.ca/) as a PostDoc.
 * Sep 2025 - Successfully defended my PhD Dissertation
 * Jan 2025 - Teaching LE EECS2001: Introduction to the Theory of Computation
 * Jan 2025 - Our paper ["Towards long-term player tracking with graph hierarchies and domain-specific features"](https://openaccess.thecvf.com/content/WACV2025W/CV4WS/html/Koshkina_Towards_long-term_player_tracking_with_graph_hierarchies_and_domain-specific_features_WACVW_2025_paper.html) accepted to WACV 2025 Computer Vision for Winter Sports Workshop.
