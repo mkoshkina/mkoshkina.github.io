@@ -11,6 +11,7 @@ I am a computer vision and machine learning researcher and a professional softwa
 
 News
 ======
+* Jun 2026 - Our paper ["Transition-Constrained Sequence Modeling for Fine-Grained Skating Action Recognition”](https://openaccess.thecvf.com/content/CVPR2026W/CVsports/papers/Koshkina_Transition-Constrained_Sequence_Modeling_for_Fine-Grained_Skating_Action_Recognition_CVPRW_2026_paper.pdf) was published in CVPR Computer Vision in Sports Workshop.
 * Oct 2025 - Joined [Vision and Image Processing Lab](https://vip.uwaterloo.ca/) at [University of Waterloo](https://uwaterloo.ca/) as a PostDoc.
 * Sep 2025 - Successfully defended my PhD Dissertation
 * Jan 2025 - Teaching LE EECS2001: Introduction to the Theory of Computation

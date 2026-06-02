@@ -4,6 +4,14 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+## Hockey Skating Action Recognition
+We address fine-grained skating action recognition in ice hockey, where actions differ subtly, motion is rapid, and class distributions are severely imbalanced. We propose a transition-constrained sequence decoding module that combines a skeleton-based DeGCN with HMM-based inference to enforce physically plausible action transitions. Our approach achieves a 2.7% gain in overall accuracy and a 7.6% improvement in mean class accuracy over strong skeleton-based baselines.
+
+<img class='workflow' src='../images/action_rec_flow.pdf'>
+
+Paper:  M. Koshkina, T. Pilla, A. Nazemi, Y. Chen, J.S. Zelek, D. Clausi. ["Transition-Constrained Sequence Modeling for Fine-Grained Skating Action Recognition”](https://openaccess.thecvf.com/content/CVPR2026W/CVsports/papers/Koshkina_Transition-Constrained_Sequence_Modeling_for_Fine-Grained_Skating_Action_Recognition_CVPRW_2026_paper.pdf), In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2026
+Demo: [YouTube](https://youtu.be/ydcnw3mBOEg)
+
 ## Player Tracking
 			
 In team sports analytics long-term player tracking remains a challenging task due to player appearance similarity occlusion and dynamic motion patterns. Accurately re-identifying players and reconnecting tracklets after extended absences from the field of view or prolonged occlusions is crucial for robust analysis. We introduce SportsSUSHI a hierarchical graph-based approach that leverages domain-specific features including jersey numbers team IDs and field coordinates to enhance tracking accuracy. SportsSUSHI achieves high performance on the SoccerNet dataset and a newly proposed hockey tracking dataset. 
