@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 ## Peer-reviewed
+* M. Koshkina, Y. Chen, J. Zelek, D. Clausi, ["A Lightweight Tracking-Based Motion Stream for Hockey Skating Action Recognition"](https://dl.acm.org/doi/10.1145/3841455.3841531), In MMSports '26: Proceedings of the 9th International ACM Workshop on Multimedia Content Analysis in Sports, 2026, pp 37-46
+
 * M. Koshkina, T. Pilla, A. Nazemi, Y. Chen, J.S. Zelek, D. Clausi. ["Transition-Constrained Sequence Modeling for Fine-Grained Skating Action Recognition”](https://openaccess.thecvf.com/content/CVPR2026W/CVsports/papers/Koshkina_Transition-Constrained_Sequence_Modeling_for_Fine-Grained_Skating_Action_Recognition_CVPRW_2026_paper.pdf), In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2026.
 
 * M. Koshkina, J. H. Elder. ["Towards long-term player tracking with graph hierarchies and domain-specific features"](https://openaccess.thecvf.com/content/WACV2025W/CV4WS/html/Koshkina_Towards_long-term_player_tracking_with_graph_hierarchies_and_domain-specific_features_WACVW_2025_paper.html), In Proceedings of the Winter Conference on Applications of Computer Vision (WACV) Workshops, 2025, pp. 1265-1275

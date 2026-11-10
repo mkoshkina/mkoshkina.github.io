@@ -7,10 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer vision and machine learning researcher and a professional software developer with over 15 years of experience. I am currently a postdoctoral fellow at the [Vision and Image Processing Lab](https://vip.uwaterloo.ca/) at [University of Waterloo](https://uwaterloo.ca/). I hold a PhD from [Department of Electrical Engineering and Computer Science](http://eecs.lassonde.yorku.ca/'), York University. My research is focused on video understanding for sports. 
+I am a computer vision and machine learning researcher and a professional software developer with over 15 years of experience. I am currently a computer vision researcher at Teamworks. Previously, I was a postdoctoral fellow at the [Vision and Image Processing Lab](https://vip.uwaterloo.ca/) at [University of Waterloo](https://uwaterloo.ca/). I hold a PhD from [Department of Electrical Engineering and Computer Science](http://eecs.lassonde.yorku.ca/'), York University. My research is focused on video understanding for sports. 
 
 News
 ======
+* Nov 2026 - Our paper ["A Lightweight Tracking-Based Motion Stream for Hockey Skating Action Recognition"](https://dl.acm.org/doi/10.1145/3841455.3841531) was published in ACM MMSports'26 workshop.
+* Sept 2026 - Joined Teamworks as Computer Vision Researcher
 * Jun 2026 - Our paper ["Transition-Constrained Sequence Modeling for Fine-Grained Skating Action Recognition”](https://openaccess.thecvf.com/content/CVPR2026W/CVsports/papers/Koshkina_Transition-Constrained_Sequence_Modeling_for_Fine-Grained_Skating_Action_Recognition_CVPRW_2026_paper.pdf) was published in CVPR Computer Vision in Sports Workshop.
 * Oct 2025 - Joined [Vision and Image Processing Lab](https://vip.uwaterloo.ca/) at [University of Waterloo](https://uwaterloo.ca/) as a PostDoc.
 * Sep 2025 - Successfully defended my PhD Dissertation
