@@ -7,7 +7,7 @@ author_profile: true
 ## Hockey Skating Action Recognition
 We address fine-grained skating action recognition in ice hockey, where actions differ subtly, motion is rapid, and class distributions are severely imbalanced. We propose a transition-constrained sequence decoding module that combines a skeleton-based DeGCN with HMM-based inference to enforce physically plausible action transitions. Our approach achieves a 2.7% gain in overall accuracy and a 7.6% improvement in mean class accuracy over strong skeleton-based baselines.
 
-<img class='workflow' src='../images/action_rec_flow.png'>
+<img style="width:70%;" class='workflow' src='../images/action_rec_flow.png'>
 
 Paper:  M. Koshkina, T. Pilla, A. Nazemi, Y. Chen, J.S. Zelek, D. Clausi. ["Transition-Constrained Sequence Modeling for Fine-Grained Skating Action Recognition”](https://openaccess.thecvf.com/content/CVPR2026W/CVsports/papers/Koshkina_Transition-Constrained_Sequence_Modeling_for_Fine-Grained_Skating_Action_Recognition_CVPRW_2026_paper.pdf), In CVSports, CVPR workshop, 2026
 
